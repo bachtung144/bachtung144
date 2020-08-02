@@ -11,3 +11,5 @@
 <a href="https://www.linkedin.com/in/b%C3%A1ch-t%C3%B9ng-a034901a4/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="bách tùng" height="20" width="20" /></a>
 <a href="https://www.facebook.com/tung.nguyenbach.1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="nguyễn bách tùng" height="20" width="20" /></a>
 </p>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/bachtung144/github-readme-stats)
