@@ -15,7 +15,7 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 - 🎨 &nbsp; Using [this](https://www.figma.com/files/user/845839508872705003?fuid=845839508872705003) to see Figma I made 👉
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help;
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/bachtung144/) or [Facebook](https://www.facebook.com/tung.nguyenbach.1/)
-- 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1hFMWb-ux6V2YImWUemOgSaGHw66_ljsf/view?usp=sharing)
+- 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1KW7jXgK_bezxH0LqzA3tS7HITYrWH1XE/view?usp=sharing)
 
 <br>
 
